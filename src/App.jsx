@@ -1,6 +1,8 @@
 
 import './App.css'
 import Card from './components/Card'
+import Footer from './components/Footer'
+import Gallery from './components/Gallery'
 import Header from './components/Header'
 import Navbar from './components/Navbar'
 
@@ -23,6 +25,18 @@ function App() {
 
 
     </div>
+
+    <div className='container mx-auto px-4 py-8'>
+      <Gallery/>
+    </div>
+
+
+    <div>
+      <Footer/>
+    </div>
+
+
+
     </>
   )
 }

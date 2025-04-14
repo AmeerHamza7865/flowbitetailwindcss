@@ -14,7 +14,11 @@
     "flowbite": "^3.1.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+<<<<<<< HEAD
     "react-router-dom": "^7.5.0"
+=======
+    "react-router-dom": "^7.4.1"
+>>>>>>> f39f65a43ce1bf40a737aaf2f628acf183044850
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
